@@ -19,6 +19,7 @@ def aufgabe_001_spiegle_text(text: str) -> str:
 def aufgabe_002_zaehle_vokale(text: str) -> int:
     """Zähle die Anzahl der Vokale im Text (a, e, i, o, u)."""
     pass
+#lösung folgt
 
 
 # Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikaya
