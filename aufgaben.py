@@ -482,10 +482,10 @@ def aufgabe_079_spaltenmittel(matrix: list[list[float]]) -> list[float]:
     pass
 
 
-# Gruppe: Patricia, Sence198719
+# Gruppe: Sence198719
 def aufgabe_080_matrix_multiply(a: list[list[int]], b: list[list[int]]) -> list[list[int]]:
-    """Multipliziere zwei Matrizen (gültige Dimensionen vorausgesetzt)."""
     pass
+
 
 
 # Gruppe: Patricia, Sence198719
