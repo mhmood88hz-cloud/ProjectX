@@ -5,7 +5,7 @@ Funktion hat einen deutschen Docstring, `pass` als Platzhalter und soll von den
 Studierenden implementiert werden. Fokus: Strings, Listen, Dicts/Sets,
 Schleifen, einfache Mathematik und saubere Funktionalität.
 
-## Gruppenaufteilung (4 Gruppen laut Board)
+## Gruppenaufteilung (4 Gruppen laut Boar)
 
 Die aktuelle Referenz fuer Gruppen und Aufgabenbereiche ist `PROJECT.md`.
 
