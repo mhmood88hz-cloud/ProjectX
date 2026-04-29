@@ -517,11 +517,9 @@ def aufgabe_085_erste_wiederholung(werte: list[Any]) -> Optional[Any]:
     pass
 
 
-# Gruppe: Patricia, Sence198719
+# Gruppe: Patricia
 def aufgabe_086_ist_sortiert(werte: list[int]) -> bool:
-    """Prüfe, ob die Liste nicht-absteigend sortiert ist."""
-    pass
-
+    return all(werte[i] <= werte[i + 1] for i in range(len(werte) - 1))
 
 # Gruppe: Patricia, Sence198719
 def aufgabe_087_bubble_sort(werte: list[int]) -> list[int]:
