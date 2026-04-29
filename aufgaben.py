@@ -170,13 +170,17 @@ def aufgabe_026_finde_index(werte: list[str], wert: str) -> int:
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_027_teilliste(werte: list[int], start: int, ende: int) -> list[int]:
     """Gib eine Teilliste von start (inkl.) bis ende (exkl.) zurück."""
-    pass
+    return werte[start:ende]
 
 
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_028_zaehle_vorkommen(werte: list[str], gesucht: str) -> int:
     """Zähle, wie oft gesucht in der Liste vorkommt."""
-    pass
+    hits = 0
+    for w in werte:
+        if gesucht == w:
+            hits += 1
+    return hits
 
 
 # Gruppe: Lexoniarus, Mr-Miller777
