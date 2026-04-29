@@ -184,8 +184,6 @@ def aufgabe_029_drehe_liste(werte: list[Any]) -> list[Any]:
 
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_030_flatten(liste_von_listen: list[list[int]]) -> list[int]:
-
-
     pass
 
 
@@ -203,7 +201,6 @@ def aufgabe_032_remove_none(werte: list[Optional[int]]) -> list[int]:
 
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_033_chunk_list(werte: list[int], groesse: int) -> list[list[int]]:
-    """Zerlege die Liste in Blöcke der Länge groesse."""
     pass
 
 
