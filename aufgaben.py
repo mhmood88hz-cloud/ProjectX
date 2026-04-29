@@ -186,7 +186,7 @@ def aufgabe_028_zaehle_vorkommen(werte: list[str], gesucht: str) -> int:
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_029_drehe_liste(werte: list[Any]) -> list[Any]:
     """Drehe die Reihenfolge der Liste um."""
-    pass
+    return werte[::-1]
 
 
 # Gruppe: Lexoniarus, Mr-Miller777
