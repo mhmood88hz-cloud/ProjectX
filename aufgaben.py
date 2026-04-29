@@ -382,7 +382,7 @@ def aufgabe_062_zahlenformat(n: float, nachkommastellen: int) -> str:
 
 # Gruppe: caferayven22, Kastriottafolli
 def aufgabe_063_clamp(wert: float, minimum: float, maximum: float) -> float:
-    """Begrenze wert auf den Bereich [minimum, maximum]."""
+
     pass
 
 
