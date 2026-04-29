@@ -161,7 +161,10 @@ def aufgabe_025_unique_werte(zahlen: list[int]) -> list[int]:
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_026_finde_index(werte: list[str], wert: str) -> int:
     """Finde den Index von wert, -1 wenn nicht vorhanden."""
-    pass
+    try:
+        return werte.index(wert)
+    except ValueError:
+        return -1
 
 
 # Gruppe: Lexoniarus, Mr-Miller777
