@@ -209,7 +209,7 @@ def aufgabe_031_merge_lists(a: list[int], b: list[int]) -> list[int]:
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_032_remove_none(werte: list[Optional[int]]) -> list[int]:
     """Entferne alle None-Werte aus der Liste."""
-    pass
+    return [w for w in werte if w is not None]
 
 
 # Gruppe: Lexoniarus, Mr-Miller777
