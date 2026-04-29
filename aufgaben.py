@@ -184,7 +184,8 @@ def aufgabe_029_drehe_liste(werte: list[Any]) -> list[Any]:
 
 # Gruppe: Lexoniarus, Mr-Miller777
 def aufgabe_030_flatten(liste_von_listen: list[list[int]]) -> list[int]:
-    """Führe eine verschachtelte Liste zu einer flachen Liste zusammen."""
+
+
     pass
 
 
