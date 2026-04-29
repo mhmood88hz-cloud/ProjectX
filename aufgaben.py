@@ -8,10 +8,11 @@ getesteten Code und haltet euch an PEP 8.
 from typing import Any, Optional
 
 
-# Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikaya
+# Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikayaa
 def aufgabe_001_spiegle_text(text: str) -> str:
     """Gib den Text rückwärts zurück."""
     pass
+#lösung
 
 
 # Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikaya
