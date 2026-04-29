@@ -460,7 +460,7 @@ def aufgabe_075_dict_diff(a: dict[str, int], b: dict[str, int]) -> dict[str, str
 
 # Gruppe: Patricia
 def aufgabe_076_sortiere_tupel_nach_index(eintraege: list[tuple[Any, ...]], index: int = 0) -> list[tuple[Any, ...]]:
-    pass
+    return sorted(eintraege, key=lambda tupel: tupel[index])
 
 
 # Gruppe: Patricia, Sence198719
