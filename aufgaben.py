@@ -380,7 +380,7 @@ def aufgabe_062_zahlenformat(n: float, nachkommastellen: int) -> str:
     pass
 
 
-# Gruppe: caferayven22, Kastriottafolli
+# Gruppe: caferayven22
 def aufgabe_063_clamp(wert: float, minimum: float, maximum: float) -> float:
 
     pass
