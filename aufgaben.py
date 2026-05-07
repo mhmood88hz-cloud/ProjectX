@@ -26,13 +26,13 @@ def aufgabe_002_zaehle_vokale(text: str) -> int:
 def aufgabe_003_ist_palindrom(text: str) -> bool:
     """Prüfe, ob der Text ein Palindrom ist (Groß/Klein ignorieren)."""
     pass
-
+#Au003
 
 # Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikaya
 def aufgabe_004_zu_grossbuchstaben(text: str) -> str:
     """Wandle alle Zeichen in Großbuchstaben um."""
     pass
-
+#
 
 # Gruppe: mhmood88hz-cloud, tasthhhh4, deryasarikaya
 def aufgabe_005_zu_kleinbuchstaben(text: str) -> str:
